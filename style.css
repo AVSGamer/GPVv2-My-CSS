@@ -489,7 +489,7 @@ strong {
 
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-  background: url(xbox-assets/base.svg);
+  background: url(raw.githubusercontent.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/base.png);
   height: 630px;
   width: 750px;
   /*    margin-left: -375px;
@@ -501,7 +501,7 @@ strong {
 }
 
 .xbox.disconnected {
-  background: url(xbox-assets/disconnected.svg);
+  background: url(raw.githubusercontent.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/disconnected.png);
 }
 
 .xbox.disconnected div {
@@ -518,7 +518,7 @@ strong {
 .xbox .trigger {
   width: 88px;
   height: 121px;
-  background: url(xbox-assets/trigger.svg);
+  background: url(raw.githubusercontent.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/trigger.png);
   opacity: 0;
 }
 
@@ -535,7 +535,7 @@ strong {
 .xbox .bumper {
   width: 170px;
   height: 61px;
-  background: url(xbox-assets/bumper.svg);
+  background: url(raw.githubusercontent.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/bumper.png);
   opacity: 0;
 }
 
@@ -563,7 +563,7 @@ strong {
 
 .xbox .quadrant {
   position: absolute;
-  background: url(xbox-assets/quadrant.svg);
+  background: url(raw.githubusercontent.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/quadrant.png);
   height: 45px;
   width: 45px;
   top: 258px;
@@ -601,7 +601,7 @@ strong {
 
 .xbox .back,
 .xbox .start {
-  background: url(xbox-assets/start-select.svg);
+  background: url(raw.githubusercontent.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/start-select.png);
   width: 33px;
   height: 33px;
   opacity: 0;
@@ -631,7 +631,7 @@ strong {
 
 .xbox .button {
   position: absolute;
-  background: url(xbox-assets/abxy.svg);
+  background: url(raw.githubusercontent.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/abxy.png);
   width: 48px;
   height: 48px;
 }
@@ -676,7 +676,7 @@ strong {
 
 .xbox .stick {
   position: absolute;
-  background: url(xbox-assets/stick.svg);
+  background: url(raw.githubusercontent.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/stick.png);
   background-position: -85px 0;
   height: 83px;
   width: 83px;
@@ -705,7 +705,7 @@ strong {
 }
 
 .xbox .face {
-  background: url(xbox-assets/dpad.svg);
+  background: url(raw.githubusercontent.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/dpad.png);
   position: absolute;
   opacity: 0;
 }
