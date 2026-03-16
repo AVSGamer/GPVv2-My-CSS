@@ -501,7 +501,7 @@ strong {
 }
 
 .xbox.disconnected {
-  background: url(raw.githubusercontent.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/disconnected.png);
+  background: url(https://raw.githubusercontent.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/disconnected.png);
 }
 
 .xbox.disconnected div {
