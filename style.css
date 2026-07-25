@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-  background: url(https://raw.githubusercontent.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/base.png);
+  background: url(https://githack.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/base.png);
   height: 630px;
   width: 750px;
   /*    margin-left: -375px;
@@ -8,11 +8,11 @@
 }
 
 .xbox.white {
-  background: url(https://raw.githubusercontent.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/base.png);
+  background: url(https://githack.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/base.png);
 }
 
 .xbox.disconnected {
-  background: url(https://raw.githubusercontent.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/disconnected.png);
+  background: url(https://githack.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/disconnected.png);
 }
 
 .xbox.disconnected div {
@@ -29,7 +29,7 @@
 .xbox .trigger {
   width: 88px;
   height: 121px;
-  background: url(https://raw.githubusercontent.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/trigger.png);
+  background: url(https://githack.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/trigger.png);
   opacity: 0;
 }
 
@@ -46,7 +46,7 @@
 .xbox .bumper {
   width: 170px;
   height: 61px;
-  background: url(https://raw.githubusercontent.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/bumper.png);
+  background: url(https://githack.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/bumper.png);
   opacity: 0;
 }
 
@@ -74,7 +74,7 @@
 
 .xbox .quadrant {
   position: absolute;
-  background: url(https://raw.githubusercontent.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/quadrant.png);
+  background: url(https://githack.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/quadrant.png);
   height: 45px;
   width: 45px;
   top: 258px;
@@ -112,7 +112,7 @@
 
 .xbox .back,
 .xbox .start {
-  background: url(https://raw.githubusercontent.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/start-select.png);
+  background: url(https://githack.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/start-select.png);
   width: 33px;
   height: 33px;
   opacity: 0;
@@ -142,7 +142,7 @@
 
 .xbox .button {
   position: absolute;
-  background: url(https://raw.githubusercontent.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/abxy.png);
+  background: url(https://githack.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/abxy.png);
   width: 48px;
   height: 48px;
 }
@@ -187,7 +187,7 @@
 
 .xbox .stick {
   position: absolute;
-  background: url(https://raw.githubusercontent.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/stick.png);
+  background: url(https://githack.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/stick.png);
   background-position: -85px 0;
   height: 83px;
   width: 83px;
@@ -216,7 +216,7 @@
 }
 
 .xbox .face {
-  background: url(https://raw.githubusercontent.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/dpad.png);
+  background: url(https://githack.com/AVSGamer/GPVv2-My-CSS/refs/heads/main/xbox-assets/my-modified/dpad.png);
   position: absolute;
   opacity: 0;
 }
